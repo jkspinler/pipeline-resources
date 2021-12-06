@@ -100,11 +100,12 @@ For laboraotires making clade and lineage assignements outside of the NextClade 
 
 ## Reference Sequences and Assemblies
 - [KRISP CERI NCBI BioProject of Omicron Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA784038): Sequencing of the Omicron variant in South Africa by the Kwazulu-Natal Research Innovation and Sequencing Platform (KRISP) and the Centre for Epidemic Response and Innovation (CERI).
-- [NCBI SAMN23572360](https://www.ncbi.nlm.nih.gov/biosample/SAMN23572360): Raw read and assembly data for the first Omicron idenfied in Minnesota, USA
-- [NCBI SAMN23637602](https://www.ncbi.nlm.nih.gov/biosample/SAMN23637602): Raw reads and assembly data for first Omicron in Massachusetts, USA
+- [NCBI SAMN23572360](https://www.ncbi.nlm.nih.gov/biosample?term=SAMN23572360): Raw read and assembly data for the first Omicron idenfied in Minnesota, USA
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
 
 ## SARS-CoV-2 Multiple Sequence Alignments
 Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Terveor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
 
 
+# Citation
+Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM. Omicron (B.1.1.529; 21K) Variant Resources. (2021) In: Public Health Alliance for Genomic Epidemiology (PHA4GE) Bioinformatics Pipelines and Visualization Working Group Resources. https://github.com/pha4ge/pipeline-resources/edit/main/docs/omicron-resources.md
