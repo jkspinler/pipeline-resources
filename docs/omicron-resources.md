@@ -1,4 +1,4 @@
-# Omicron (B.1.1.529; 21K) Variant Resources
+# Omicron (BA.1/21K) Variant Resources - *Formerly B.1.1.529*
 
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
@@ -44,6 +44,7 @@ Below is a list of various educational material, public health announcements and
 
 ## Technical Details and Global Trackers
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
+- [Pango-designation proposed split of B.1.1.529 into BA.1/BA.2 sublineages](https://github.com/cov-lineages/pango-designation/issues/361) (Andrew Rambaut)
 - Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
   - [PANGO Lineage B.1.1.529 Summary Page](https://cov-lineages.org/lineage.html?lineage=B.1.1.529)
   - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html)
@@ -85,6 +86,11 @@ Mutations in the SARS-CoV-2 genome can affect PCR-based diagnostic assays and ge
 - [NEB's Primer Monitor Tool](https://primer-monitor.neb.com/lineages): Monitor registered primer sets for overlapping sequence variants in Omicron.
 
 - [SARS-CoV-2 Artic V4.1 update for Omicron variant](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342): Ten mutations in the Omicron VOC affect the Artic V4 primer scheme for whole genome sequencing. The Artic Network has designed 11 new primers to account for these mutations. 
+
+- New PCR primers to address SGTF in BA.1: 
+  - [Specific detection of SARS-COV-2 B.1.1.529 (Omicron) variant by four RT-qPCR differential assays (Erster O, et al, 2021)](https://www.medrxiv.org/content/10.1101/2021.12.07.21267293v2)
+  - [Multiplex qPCR discriminates variants of concern to enhance global surveillance of SARS-CoV-2 (Vogels CBF, et al, 2021)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001236)
+
 
  
 # Bioinformatics Resources and Considerations
